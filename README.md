@@ -1,8 +1,8 @@
 # Pose-Estimation-with-MediaPipe
 Easy to use 32 keypoints pose estimation on video feed or local video file in Python!
 
-![Screenshot](New-Tab.gif)
-![Screenshot](video1.gif)
+![Screenshot](assets/dance.gif)
+![Screenshot](assets/demo.gif)
 
 
 
