@@ -5,7 +5,7 @@ Easy to use 32 keypoints pose estimation on video feed or local video file in Py
 Below are instructions to implement in in your local system using a separate development environment using the [Conda](http://conda.pydata.org/docs/index.html) package management system which comes bundled with the Anaconda Python distribution provided by Continuum Analytics.
 
 ### Step 1:
-[Fork and clone](https://help.github.com/articles/fork-a-repo) a copy of this repository on to your local machine.
+[Fork and clone](https://github.com/siddharthksah/Pose-Estimation-with-MediaPipe) a copy of this repository on to your local machine.
 
 ### Step 2:
 Create a `conda` environment called `pose-estimation` and install all the necessary dependencies, the environment.yml file is uploaded in the repo for ease:
