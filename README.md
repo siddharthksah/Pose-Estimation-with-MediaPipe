@@ -1,4 +1,4 @@
-# Pose-Estimation-with-MediaPipe
+# Pose-Estimation-with-MediaPipe-Realtime
 Easy to use 32 keypoints pose estimation on video feed or local video file in Python!
 
 
